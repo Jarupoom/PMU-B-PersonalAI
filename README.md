@@ -1,7 +1,7 @@
 # PMU-B-PersonalAI Introduction 🔰
 Welcome to my e-portfolio! I am Jarupoom Kaewkham, a passionate student in the field of AI-based Biomedical Engineering. With a strong foundation in both artificial intelligence and biomedical engineering, I aim to bridge the gap between cutting-edge technology and healthcare innovation.
 
-Biomedical engineering is evolving rapidly, and the integration of artificial intelligence (AI) is transforming how we diagnose, treat, and monitor diseases. Through this portfolio, I am excited to showcase my projects, skills, and experiences in applying AI techniques to solve complex problems in medical fields.
+Biomedical engineering is evolving rapidly, and the integration of artificial intelligence (AI) is transforming how we diagnose, treat, and monitor diseases. Through this portfolio, I am excited to showcase my insights gained from the "E-SAN Thailand Coding & AI Academy" to apply for AI technique to solve the complex medicial problems.
 
 # Xpore: An AI-Powered App for Bioinformatic
 xPore is a computational tool specifically designed for analyzing RNA modifications from nanopore direct RNA sequencing data. Its primary purpose is to identify differential RNA modifications—such as N6-methyladenosine (m6A)—at a single-base resolution, quantify modification rates, and compare them across different conditions or samples. xPore achieves this by leveraging nanopore sequencing's ability to directly detect base modifications through changes in the electrical signal, unlike other RNA-seq methods that require reverse transcription.
